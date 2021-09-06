@@ -40,7 +40,7 @@ async def send(ctx, *, content: str):
                 await client.say("DM can't Sent To : {} :x: ".format(member))
 
 
-client.run("ODc4NzQ1OTAxNDAzODczMjgy.YSFp5Q.WyWzQCopwEElKHzuHoPcXdAZef4")                
+client.run("ODc4NzQ1OTAxNDAzODczMjgy.YSFp5Q.xz6goujlpGA-t5CXBocQ8zwNaSA")                
     print('CREATED AND HOSTED BY SUBHANKAR DAS')
 
 @client.command(pass_context = True)
